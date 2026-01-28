@@ -28,7 +28,6 @@
 
 **Movie Search App**
 - Developed movie search application with real-time API integration and type-safe components
-- Built favorite list feature with rating system and optimized API requests using debouncing
-
+- Built favorite list feature with rating system and optimized API requests using debouncing  
 🔗 Live: [https://global-news-hub-mbv9.vercel.app](https://movie-search-pro-gamma.vercel.app)
 💡 Tech: Vue.js, TypeScript, Tailwind CSS, OMDB API
