@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Bashar
 
 🚀 Software Engineer (Frontend / Full-Stack Focus)
+<br>
 💻 Building modern, responsive web applications  
 🌐 Portfolio: Coming soon
 
