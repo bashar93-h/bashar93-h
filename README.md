@@ -13,8 +13,8 @@
 
 ### 🔥 Featured Projects
 **The Wild Oasis**
-- Built full-stack hotel management dashboard with authentication, booking system, and real-time analytics
-- Implemented role-based access control and interactive charts for occupancy rates and revenue tracking
+- Built full-stack hotel management dashboard with authentication, booking system, and real-time analytics.
+- Implemented role-based access control and interactive charts for occupancy rates and revenue tracking.
 🔗 Live: [https://global-news-hub-mbv9.vercel.app](https://the-serene-wild-oasis.vercel.app)
 💡 Tech: React, Styled components, Supabase, React Query
 
