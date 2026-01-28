@@ -16,4 +16,6 @@
 - Global News Hub – https://global-news-hub-mbv9.vercel.app
 **The Wild Oasis Website**
 - Movie Search App – https://movie-search-pro-gamma.vercel.app
+**Movie Search App**
+- Movie Search App – https://movie-search-pro-gamma.vercel.app
 
