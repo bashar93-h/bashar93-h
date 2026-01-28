@@ -16,7 +16,8 @@
 - Built full-stack hotel management dashboard with authentication, booking system, and real-time analytics
 - Implemented role-based access control and interactive charts for occupancy rates and revenue tracking
 **The Wild Oasis Website**
-- Movie Search App – https://movie-search-pro-gamma.vercel.app
+- Developed customer-facing booking website with server-side rendering for optimal performance
+- Integrated, real-time cabin availability and reservation system using Next.js App Router
 **Movie Search App**
-- Movie Search App – https://movie-search-pro-gamma.vercel.app
-
+- Developed movie search application with real-time API integration and type-safe components
+- Built favorite list feature with rating system and optimized API requests using debouncing
