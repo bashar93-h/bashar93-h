@@ -6,7 +6,7 @@
 
 ### 🛠 Tech Stack
 - JavaScript, TypeScript
-- React, Next.js
+- React, Next.js, Vue.js
 - Tailwind CSS, Bootstrap
 - Git & GitHub
 - REST APIs
