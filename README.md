@@ -3,7 +3,7 @@
 🚀 Software Engineer (Frontend / Full-Stack Focus)
 <br>
 💻 Building modern, responsive web applications  
-🌐 Portfolio: Coming soon
+🌐 Portfolio: https://portfolio-ebon-two-70.vercel.app
 
 ### 🛠 Tech Stack
 - JavaScript, TypeScript
